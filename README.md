@@ -9,5 +9,5 @@
 * использовать HTML, CSS
 
 ### Ссылки:
-* :mag_right: [Открыть проект]()
+* :mag_right: [Открыть проект](https://gutmalina.github.io/test-task-pixel-perfect-layout/)
 * :pushpin:   [Макет](./images/tex.jpg)
