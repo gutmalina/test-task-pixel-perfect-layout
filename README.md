@@ -1,1 +1,13 @@
-# test-task-pixel-perfect-layout
+# Тестовое задание Frontend-разработчик стажёр
+
+### Стэк:
+* CSS
+* HTML
+
+### Задание:
+* выполнить pixel perfect верстку изображения геометрических фигур
+* использовать HTML, CSS
+
+### Ссылки:
+* :mag_right: [Открыть проект]()
+* :pushpin:   [Макет](./images/tex.jpg)

@@ -1,0 +1,64 @@
+@import url(./normalize.css);
+
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 405px;
+  height: 405px;
+  background-color: lightgray;
+  overflow: hidden;
+  display: inherit;
+  position: relative;
+  justify-content: center;
+}
+.circle_size_big {
+  width: 323px;
+  height: 323px;
+  border-radius: 50%;
+  background-color: darkgreen;
+  position: absolute;
+  bottom: 189px;
+  right: 176px;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-bottom: 110px solid red;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.rectangle-blue {
+  width: 313px;
+  height: 48px;
+  background-color: darkblue;
+  transform: rotate(47deg);
+  z-index: 2;
+  position: absolute;
+  top: 154px;
+  left: 44px;
+}
+.circle_size_small {
+  width: 102px;
+  height: 102px;
+  border-radius: 50%;
+  background-color: green;
+  z-index: 3;
+  position: absolute;
+  top: 137px;
+  right: 77px;
+}
+.rectangle-purple {
+  width: 305px;
+  height: 82px;
+  background-color: purple;
+  border-radius: 32px;
+  z-index: 3;
+  position: absolute;
+  bottom: 53px;
+}
