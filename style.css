@@ -7,13 +7,13 @@ body{
   align-items: center;
 }
 .container {
+  min-width: 405px;
   width: 405px;
   height: 405px;
   background-color: lightgray;
   overflow: hidden;
   display: inherit;
   position: relative;
-  justify-content: center;
 }
 .circle_size_big {
   width: 323px;
@@ -61,4 +61,5 @@ body{
   z-index: 3;
   position: absolute;
   bottom: 53px;
+  left: 51px;
 }
